@@ -1,0 +1,36 @@
+SHARIQ PORTFOLIO IMAGE ASSETS
+
+Personal / profile
+- img-9606.jpg — Shariq profile portrait
+- week-2-mon.jpg — supplied personal/project image
+
+Project screenshots
+- bookhive-homepage.png — BookHive
+- readme-generator-ss.png — GitHub Readme Generator
+- readme-generator-ss2.png — GitHub Readme Generator alternate
+- ats-resume-ss.png — ATS Resume Checker
+- boost-ai-ss.png — Boost AI landing page
+- boost-ai-ss-2.png — Boost AI dashboard
+- boost-ai-ss-3.png — Boost AI sign-in
+- boost-ai-ss-4.png — Boost AI additional screen
+- pinterest-clone.png — Pinterest Clone
+- finger-fiasco-dark.png — Finger Fiasco dark mode
+- finger-fiasco-light.png — Finger Fiasco light mode
+- pizza-store-landing-page.png — Cheese Oven / Pizza Store
+- landing-page-ss.png — landing page screenshot
+- portfolio-ss.png — portfolio screenshot
+- chatgpt-image-jan-6-2026.png — supplied blog/visual image
+
+UI / icon assets
+- android-chrome-512x512.png
+- cursor.png
+- framer-logo.png
+- github-logo.png
+- instagram-logo.png
+- linkedin-logo.png
+- mail-logo.png
+
+All supplied project/product screenshots are retained. The user's own business-site portfolio links (hsbalc.com etc.) are intentionally not included.
+
+shariq-hero.png
+shariq-favicon.png
