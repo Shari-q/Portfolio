@@ -1,26 +1,74 @@
 # Shariq Dilmurad Zai — Portfolio
 
-A GitHub Pages-ready portfolio built for **Shariq Dilmurad Zai** with a premium dark visual system, animated hero, responsive sections, and a project showcase tailored to his own work and experience.
+A premium personal portfolio website built for a modern front-end developer and WordPress specialist. The project combines a dark luxury aesthetic, smooth animations, responsive sections, and a strong personal brand presence for showcasing work, experience, and technical skills.
 
-## Included
-- Dark black/green visual system
-- Animated WebGL line-wave hero
-- GSAP scroll/reveal animations
-- Particles.js project background
-- Responsive timeline, skills, GitHub activity and contact sections
-- Real GitHub API activity for `Shari-q`
-- Local project screenshots in `assets/images/`
-- Downloadable CV in `assets/Shariq-CV.pdf`
-- Original portfolio content designed for Shariq's personal branding
+<p align="center">
+  <img src="assets/images/shariq-hero.png" alt="Shariq portfolio hero" width="1000" />
+</p>
 
-## Run
-Open `index.html` or serve the folder with any static server.
+## Overview
+This portfolio is designed to feel polished, credible, and conversion-focused while still feeling personal and unique. It includes a clean visual identity, animated motion system, detailed project showcase, and strong call-to-action sections for client outreach.
 
-## GitHub Pages
-Upload the complete folder to a repository and enable **Settings → Pages → Deploy from a branch**.
-- `assets/images/shariq-logo.png` — SHARIQ wordmark used in the hero navigation.
-- `assets/images/shariq-favicon.png` — SD mark used as the browser favicon and hero side mark.
-- `assets/images/shariq-hero.png` — original user portrait used in the hero without changing the face.
+## Highlights
+- Premium dark theme with green/cyan accents
+- Responsive single-page portfolio layout
+- Animated hero and scroll-based reveal effects
+- Timeline for journey and experience
+- Skills and technology showcase sections
+- GitHub language activity section
+- Project cards with unique visual treatments
+- Contact form ready for outreach and inquiries
+- Downloadable CV included
 
-- Functional light/dark theme toggle
-- Standalone Most Used Languages section
+## Screenshot Preview
+
+<p align="center">
+  <img src="assets/images/portfolio-ss.png" alt="Portfolio preview" width="900" />
+</p>
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- GSAP animation
+- Bootstrap
+- Font Awesome
+- Devicons
+- GitHub API data integration
+
+## How to Run
+Open `index.html` directly in a browser, or serve the folder locally with a static server.
+
+```bash
+python -m http.server 8000
+```
+Then open:
+
+```bash
+http://localhost:8000
+```
+
+## GitHub Pages Deployment
+To deploy on GitHub Pages:
+
+1. Push the project to a GitHub repository.
+2. Go to **Settings → Pages**.
+3. Under **Source**, select your branch.
+4. Save and wait for the deployment to publish.
+
+## Project Assets
+- `assets/images/shariq-logo.png` — primary SHARIQ wordmark
+- `assets/images/shariq-favicon.png` — favicon and branding mark
+- `assets/images/shariq-hero.png` — profile hero image
+- `assets/images/portfolio-ss.png` — portfolio landing screen preview
+- `assets/images/readme-generator-ss2.png` — project showcase visual
+
+## Contact
+For project inquiries, collaborations, or new opportunities:
+
+- Email: shariq.mailbox1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shariq-dilmurad-zai-026b22418
+- GitHub: https://github.com/Shari-q/
+
+## License
+This project is created for personal portfolio use and branding purposes.
