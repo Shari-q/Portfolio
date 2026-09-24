@@ -61,7 +61,6 @@ To deploy on GitHub Pages:
 - `assets/images/shariq-favicon.png` — favicon and branding mark
 - `assets/images/shariq-hero.png` — profile hero image
 - `assets/images/portfolio-ss.png` — portfolio landing screen preview
-- `assets/images/readme-generator-ss2.png` — project showcase visual
 
 ## Contact
 For project inquiries, collaborations, or new opportunities:
