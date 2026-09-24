@@ -3,7 +3,7 @@
 A premium personal portfolio website built for a modern front-end developer and WordPress specialist. The project combines a dark luxury aesthetic, smooth animations, responsive sections, and a strong personal brand presence for showcasing work, experience, and technical skills.
 
 <p align="center">
-  <img src="assets/images/shariq-hero.png" alt="Shariq portfolio hero" width="1000" />
+  <img src="assets/images/shariq-hero.png" alt="Shariq portfolio hero" width="600" />
 </p>
 
 ## Overview
