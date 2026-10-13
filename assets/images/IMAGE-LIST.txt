@@ -1,38 +1,24 @@
 SHARIQ PORTFOLIO IMAGE ASSETS
 
-Personal / profile
-- img-9606.jpg — Shariq profile portrait
-- week-2-mon.jpg — supplied personal/project image
+Profile and branding
+- shariq-hero.png — profile image
+- shariq-logo.png — portfolio wordmark
+- shariq-favicon.png — favicon and branding mark
 
-Project screenshots
+Project and blog previews
+- world-clock.jpg — World Clock
 - bookhive-homepage.png — BookHive
 - nova-shoe-hero.png — NOVA storefront hero screenshot
-- nova-shoe-preview.jpg — NOVA luxury footwear storefront
 - readme-generator-ss.png — GitHub Readme Generator
-- readme-generator-ss2.png — GitHub Readme Generator alternate
+- readme-generator-ss2.png — portfolio showcase preview
 - ats-resume-ss.png — ATS Resume Checker
-- boost-ai-ss.png — Boost AI landing page
-- boost-ai-ss-2.png — Boost AI dashboard
-- boost-ai-ss-3.png — Boost AI sign-in
-- boost-ai-ss-4.png — Boost AI additional screen
-- pinterest-clone.png — Pinterest Clone
-- finger-fiasco-dark.png — Finger Fiasco dark mode
-- finger-fiasco-light.png — Finger Fiasco light mode
-- pizza-store-landing-page.png — Cheese Oven / Pizza Store
-- landing-page-ss.png — landing page screenshot
 - portfolio-ss.png — portfolio screenshot
-- chatgpt-image-jan-6-2026.png — supplied blog/visual image
+- chatgpt-image-jan-6-2026.png — blog visual
 
-UI / icon assets
-- android-chrome-512x512.png
+UI and social icons
 - cursor.png
-- framer-logo.png
+- cursor-red.png
 - github-logo.png
 - instagram-logo.png
 - linkedin-logo.png
 - mail-logo.png
-
-All supplied project/product screenshots are retained. The user's own business-site portfolio links (hsbalc.com etc.) are intentionally not included.
-
-shariq-hero.png
-shariq-favicon.png
