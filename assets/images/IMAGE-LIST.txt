@@ -6,6 +6,8 @@ Personal / profile
 
 Project screenshots
 - bookhive-homepage.png — BookHive
+- nova-shoe-hero.png — NOVA storefront hero screenshot
+- nova-shoe-preview.jpg — NOVA luxury footwear storefront
 - readme-generator-ss.png — GitHub Readme Generator
 - readme-generator-ss2.png — GitHub Readme Generator alternate
 - ats-resume-ss.png — ATS Resume Checker
